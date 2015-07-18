@@ -1,8 +1,7 @@
 # Problemi
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
-
+This application is the OI -> ember.js 
+conversion.
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
